@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/RenzAquino/redux-app/precache-manifest.c7070782f6ec5493f1084858d86a0854.js"
+  "/redux-app/precache-manifest.39b579414a6f93b8034b5ac5ad2430e5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/RenzAquino/redux-app/index.html", {
+workbox.routing.registerNavigationRoute("/redux-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

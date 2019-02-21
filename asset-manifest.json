@@ -1,14 +1,14 @@
 {
-  "main.css": "/RenzAquino/redux-app/static/css/main.7fdd3a5f.chunk.css",
-  "main.js": "/RenzAquino/redux-app/static/js/main.5124d91e.chunk.js",
-  "main.js.map": "/RenzAquino/redux-app/static/js/main.5124d91e.chunk.js.map",
-  "runtime~main.js": "/RenzAquino/redux-app/static/js/runtime~main.7395aa3a.js",
-  "runtime~main.js.map": "/RenzAquino/redux-app/static/js/runtime~main.7395aa3a.js.map",
-  "static/js/2.b583b496.chunk.js": "/RenzAquino/redux-app/static/js/2.b583b496.chunk.js",
-  "static/js/2.b583b496.chunk.js.map": "/RenzAquino/redux-app/static/js/2.b583b496.chunk.js.map",
-  "index.html": "/RenzAquino/redux-app/index.html",
-  "precache-manifest.c7070782f6ec5493f1084858d86a0854.js": "/RenzAquino/redux-app/precache-manifest.c7070782f6ec5493f1084858d86a0854.js",
-  "service-worker.js": "/RenzAquino/redux-app/service-worker.js",
-  "static/css/main.7fdd3a5f.chunk.css.map": "/RenzAquino/redux-app/static/css/main.7fdd3a5f.chunk.css.map",
-  "static/media/logo.svg": "/RenzAquino/redux-app/static/media/logo.5d5d9eef.svg"
+  "main.css": "/redux-app/static/css/main.7fdd3a5f.chunk.css",
+  "main.js": "/redux-app/static/js/main.a6b30692.chunk.js",
+  "main.js.map": "/redux-app/static/js/main.a6b30692.chunk.js.map",
+  "runtime~main.js": "/redux-app/static/js/runtime~main.c9073ebc.js",
+  "runtime~main.js.map": "/redux-app/static/js/runtime~main.c9073ebc.js.map",
+  "static/js/2.b583b496.chunk.js": "/redux-app/static/js/2.b583b496.chunk.js",
+  "static/js/2.b583b496.chunk.js.map": "/redux-app/static/js/2.b583b496.chunk.js.map",
+  "index.html": "/redux-app/index.html",
+  "precache-manifest.39b579414a6f93b8034b5ac5ad2430e5.js": "/redux-app/precache-manifest.39b579414a6f93b8034b5ac5ad2430e5.js",
+  "service-worker.js": "/redux-app/service-worker.js",
+  "static/css/main.7fdd3a5f.chunk.css.map": "/redux-app/static/css/main.7fdd3a5f.chunk.css.map",
+  "static/media/logo.svg": "/redux-app/static/media/logo.5d5d9eef.svg"
 }
