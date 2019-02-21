@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/redux-app/static/css/main.7fdd3a5f.chunk.css"
   },
   {
-    "revision": "1717eede44abb840b641bf82f53c5a3d",
+    "revision": "7f90f721b80ef131c13bce1cb1763165",
     "url": "/redux-app/index.html"
   }
 ];
